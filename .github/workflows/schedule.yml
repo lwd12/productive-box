@@ -12,5 +12,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: lwd12/205b348c46701b1b4f647a42a62f1b44
+          GIST_ID: https://gist.github.com/lwd12/
           TIMEZONE: Asia/Seoul
